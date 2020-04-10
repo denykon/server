@@ -1,6 +1,6 @@
 {
   "result": {
-    "sessionId": "FS_31d56Msa772pNtJ",
+    "sessionId": "test",
     "questions": [
       {
         "questionId": "QID2",
@@ -45,12 +45,12 @@
       }
     ],
     "embeddedData": {
-      "Q_AA_PARAMS": "{\"marketingCloudVisitorID\":\"17937115549731516960723772748401434130\"}",
-      "Q_URL": "https://jam.qprod2.net/headless-api/v1/forms/SV_bClsfflmWFqOg8R/sessions",
-      "Current Page URL": "https://dx-test.mo.sap.corp/quartz/qualtrix1.html",
+      "Q_AA_PARAMS": "{\"marketingCloudVisitorID\":\"test\"}",
+      "Q_URL": "",
+      "Current Page URL": "",
       "Q_Language": "EN",
       "Source": "SAP.com",
-      "Referring Page": "https://dx-test.mo.sap.corp/quartz/qualtrix.html",
+      "Referring Page": "",
       "Referring Site": "",
       "Browser Info_Browser": "Chrome",
       "Browser Info_Version": "80",
@@ -63,7 +63,7 @@
     "done": false
   },
   "meta": {
-    "requestId": "b496fba4-6fcb-45f2-9a51-568f571297f3",
+    "requestId": "",
     "httpStatus": "200 - OK"
   }
 }
