@@ -1,69 +1,179 @@
 {
-  "result": {
-    "sessionId": "test",
-    "questions": [
-      {
-        "questionId": "QID2",
-        "type": "mc",
-        "display": "Please tell us how we can improve |<br />\nCheck all that apply",
-        "options": {
-          "columnLabels": [],
-          "multiSelect": true
-        },
-        "choices": [
-          {
-            "choiceId": "1",
-            "display": "I need more details",
-            "textual": false
-          },
-          {
-            "choiceId": "2",
-            "display": "The information is confusing or hard to understand",
-            "textual": false
-          },
-          {
-            "choiceId": "3",
-            "display": "I can't find what I'm looking for",
-            "textual": false
-          },
-          {
-            "choiceId": "4",
-            "display": "I'd like to have information in my language",
-            "textual": false
-          },
-          {
-            "choiceId": "5",
-            "display": "I have technical issues (broken links, display issues, page errors, etc.)",
-            "textual": false
-          },
-          {
-            "choiceId": "6",
-            "display": "Something else",
-            "textual": false
-          }
-        ]
-      }
-    ],
-    "embeddedData": {
-      "Q_AA_PARAMS": "{\"marketingCloudVisitorID\":\"test\"}",
-      "Q_URL": "",
-      "Current Page URL": "",
-      "Q_Language": "EN",
-      "Source": "SAP.com",
-      "Referring Page": "",
-      "Referring Site": "",
-      "Browser Info_Browser": "Chrome",
-      "Browser Info_Version": "80",
-      "Browser Info_Operating System": "Windows NT 10.0",
-      "Browser Info_Resolution": "1856x1022",
-      "Country Site": "global",
-      "Page Language": "English"
-    },
-    "responses": {},
-    "done": false
+  "facets": {
+    "": "{\"count\":6,\"title\":\"Tags\",\"tagTitle\":\"tags\",\"fullTitle\":\"Tags\"}",
+    "language:sample/sample": "{\"count\":6,\"title\":\"English\",\"tagTitle\":\"language:english\",\"fullTitle\":\"Language:English\"}",
+    "language:sample": "{\"count\":6,\"title\":\"English\",\"tagTitle\":\"language:english\",\"fullTitle\":\"Language:English\"}",
+    "topic": "{\"count\":1,\"title\":\"Topic\",\"tagTitle\":\"topic\",\"fullTitle\":\"Topic\"}",
+    "language": "{\"count\":6,\"title\":\"Language\",\"tagTitle\":\"language\",\"fullTitle\":\"Language\"}"
   },
-  "meta": {
-    "requestId": "",
-    "httpStatus": "200 - OK"
-  }
+  "results": [
+    {
+      "crxPath": "/content/sample/sample/about/overview/jcr:content",
+      "publicUrl": "/content/sample/sample/about/overview",
+      "publicUrlSort": "/content/sample/sample/about/overview",
+      "docType": [
+        "page"
+      ],
+      "creationDate": "Mar 19, 2021 4:45:00 PM",
+      "pageTitle": [
+        "Overview"
+      ],
+      "lastModified": "Apr 13, 2021 3:50:00 PM",
+      "title": "Overview",
+      "titleSort": "Overview",
+      "titleNotTokenized": "Overview",
+      "tags": [
+        "/language/sample/sample",
+        "/211459137739047/2074454121807807/sol"
+      ],
+      "fullText": [
+        "Overview Overview Overview"
+      ],
+      "basicUrl": "/content/sample/sample/about/overview",
+      "_version_": 17145809048500
+    },
+    {
+      "crxPath": "/content/sample/sample/about/jcr:content",
+      "publicUrl": "/content/sample/sample/about",
+      "publicUrlSort": "/content/sample/sample/about",
+      "docType": [
+        "page"
+      ],
+      "creationDate": "Apr 13, 2015 7:03:00 AM",
+      "keywords": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "pageTitle": [
+        "About sample"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "descriptionNotTokenized": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "lastModified": "Jun 18, 2021 4:41:00 PM",
+      "title": "About sample",
+      "titleSort": "About sample",
+      "titleNotTokenized": "About sample",
+      "tags": [
+        "/language/sample/sample",
+        "/211459392306421747/2074304547099107807/sample"
+      ],
+      "fullText": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta."
+      ],
+      "basicUrl": "/content/sample/sample/about",
+      "_version_": 5714584117491700
+    },
+    {
+      "crxPath": "/content/sample/sample/about/careers/jcr:content",
+      "publicUrl": "/content/sample/sample/about/careers",
+      "publicUrlSort": "/content/sample/sample/about/careers",
+      "docType": [
+        "page"
+      ],
+      "creationDate": "Sep 7, 2016 3:12:00 PM",
+      "keywords": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "pageTitle": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta."
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "descriptionNotTokenized": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "lastModified": "Sep 18, 2021 12:04:00 AM",
+      "title": "Careers",
+      "titleSort": "Careers",
+      "titleNotTokenized": "Careers",
+      "tags": [
+        "/rree/724690969627109459/sample",
+        "/82352407469w8155/f1baaewcbb-6f0e-4906-94128b4/724690ew177842089109459/sample",
+        "/language/sample/sample",
+        "/211459306421747/2074307121807807/sample"
+      ],
+      "basicUrl": "/content/sample/sample/about",
+      "_version_": 317142576921600,
+      "fullText": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta."
+      ]
+    },
+    {
+      "crxPath": "/content/sample/sample/about/overview/jcr:content",
+      "publicUrl": "/content/sample/sample/about/overview",
+      "publicUrlSort": "/content/sample/sample/about/overview",
+      "docType": [
+        "page"
+      ],
+      "creationDate": "Mar 19, 2021 4:45:00 PM",
+      "pageTitle": [
+        "Overview"
+      ],
+      "lastModified": "Apr 13, 2021 3:50:00 PM",
+      "title": "Overview",
+      "titleSort": "Overview",
+      "titleNotTokenized": "Overview",
+      "tags": [
+        "/language/sample/sample",
+        "/2114106421747/207435470807807/sample"
+      ],
+      "fullText": [
+        "Overview Overview Overview"
+      ],
+      "basicUrl": "/content/sample/sample/about/overview",
+      "_version_": 217145466328500
+    },
+    {
+      "crxPath": "/content/sample/sample/about/jcr:content",
+      "publicUrl": "/content/sample/sample/about",
+      "publicUrlSort": "/content/sample/sample/about",
+      "docType": [
+        "page"
+      ],
+      "creationDate": "Apr 13, 2015 7:03:00 AM",
+      "keywords": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "pageTitle": [
+        "About sample"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "descriptionNotTokenized": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "lastModified": "Jun 18, 2021 4:41:00 PM",
+      "title": "About sample",
+      "titleSort": "About sample",
+      "titleNotTokenized": "About sample",
+      "tags": [
+        "/language/sample/sample",
+        "/2114591334923067/235415321807807/sample"
+      ],
+      "fullText": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta."
+      ],
+      "basicUrl": "/content/sample/sample/about",
+      "_version_": 17144117491700
+    },
+    {
+      "crxPath": "/content/sample/sample/about/careers/jcr:content",
+      "publicUrl": "/content/sample/sample/about/careers",
+      "publicUrlSort": "/content/sample/sample/about/careers",
+      "docType": [
+        "page"
+      ],
+      "creationDate": "Sep 7, 2016 3:12:00 PM",
+      "keywords": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "pageTitle": [
+        "sample careers & Job Opportunities"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "descriptionNotTokenized": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta.",
+      "lastModified": "Sep 18, 2021 12:04:00 AM",
+      "title": "Careers",
+      "titleSort": "Careers",
+      "titleNotTokenized": "Careers",
+      "tags": [
+        "/eic/24690174269627109459/sample",
+        "/823407468798155/f1baacbb-6f03a6a964128b4/7246922089696109459/sample",
+        "/language/sample/sample",
+        "/21145231747/2073121807807/sample"
+      ],
+      "basicUrl": "/content/sample/sample/about/careers",
+      "_version_": 121921600,
+      "fullText": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, soluta."
+      ]
+    }
+  ],
+  "count": 6,
+  "additionalData": {}
 }
