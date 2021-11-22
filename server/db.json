@@ -869,5 +869,572 @@
     ],
     "count": 1,
     "additionalData": {}
+  },
+  "16": {
+    "facets": {},
+    "results": [
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "2",
+        "titleSort": "2",
+        "titleNotTokenized": "2",
+        "tags": [
+          "2"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 2
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "3",
+        "titleSort": "3",
+        "titleNotTokenized": "3",
+        "tags": [
+          "3"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 3
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "4",
+        "titleSort": "4",
+        "titleNotTokenized": "4",
+        "tags": [
+          "4"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 4
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      },
+      {
+        "crxPath": "",
+        "publicUrl": "",
+        "publicUrlSort": "",
+        "docType": [
+          "asset"
+        ],
+        "creationDate": "Dec 3, 2020 4:50:00 PM",
+        "lastModified": "Apr 15, 2021 3:16:00 PM",
+        "akamaiUrl": [
+          ""
+        ],
+        "assetID": "",
+        "format": [
+          "application/pdf"
+        ],
+        "damSearchKeywords": [
+          "Lorem"
+        ],
+        "publishDate": "Dec 3, 2020 3:10:00 PM",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "descriptionNotTokenized": "Lorem",
+        "title": "1",
+        "titleSort": "1",
+        "titleNotTokenized": "1",
+        "tags": [
+          "1"
+        ],
+        "url": "",
+        "fullText": [
+          "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+        ],
+        "basicUrl": "",
+        "_version_": 1
+      }
+    ],
+    "count": 16,
+    "additionalData": {}
   }
 }
